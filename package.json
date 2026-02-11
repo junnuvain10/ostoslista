@@ -1,0 +1,18 @@
+{
+  "name": "ostoslista",
+  "version": "1.0.0",
+  "description": "Yksinkertainen Ostoslista Web App, joka on toteutettu lähinnä puhelimella käytettäväksi omaan käyttöön.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.4",
+    "vite": "^7.3.1"
+  }
+}

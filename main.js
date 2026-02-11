@@ -17,8 +17,7 @@ const shoppingList = document.querySelector("#shopping-list");
 // Firebase setup
 
 const appSettings = {
-  databaseURL:
-    "https://cartapp-667f5-default-rtdb.europe-west1.firebasedatabase.app",
+  databaseURL: import.meta.env.VITE_DATABASE_URL,
 };
 
 const app = initializeApp(appSettings);
