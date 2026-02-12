@@ -11,7 +11,7 @@ Yksinkertainen Ostoslista Web App, joka on toteutettu lähinnä puhelimella käy
 1. **Kloonaa tai lataa projekti**
 
    ```
-   git clone <repo-url>
+   git clone https://github.com/junnuvain10/ostoslista.git
    cd ostoslista
    ```
 
