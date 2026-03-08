@@ -1,4 +1,4 @@
-Yksinkertainen Ostoslista Web App, joka on toteutettu lähinnä puhelimella käytettäväksi omaan käyttöön.
+Yksinkertainen Ostoslista Web App, joka on toteutettu lähinnä puhelimella käytettäväksi omaan käyttöön. **HUOM!** Tämä on vain Frontend toteutus, Backendin toteutus on Firebasessa.
 
 ## Käyttöohjeet
 
